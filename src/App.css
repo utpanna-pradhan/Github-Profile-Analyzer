@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+#root{
+  width: 100vw;
+}
+/* body{
+  background: url("https://images4.alphacoders.com/835/83516.jpg");
+  background-repeat: no-repeat;
+
+  background-size: 100vw 100vh;
+
+} */
