@@ -65,7 +65,8 @@ function App() {
         
         />
       )}
-
+      <h3 className="text-xl text-gray-700">Repositories of {username}</h3>
+      <br></br>
       {loading && (
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
           {[...Array(6)].map((_, i) => (
